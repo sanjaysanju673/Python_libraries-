@@ -1,0 +1,2 @@
+DEBUG:root:Summary of the basic information about this DataFrame and its data:
+DEBUG:root:Summary of the basic information about this DataFrame and its data:
